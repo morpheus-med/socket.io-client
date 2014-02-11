@@ -17,7 +17,7 @@
     "zuul": "1.5.2",
     "istanbul": "0.2.1",
     "expect.js": "0.2.0",
-    "uglify-js": "2.4.8",
+    "uglify-js": "git://github.com/morpheus-med/UglifyJS#master",
     "browserify": "2.35.1"
   },
   "scripts": {
